@@ -1,12 +1,8 @@
-/**********************************************************
- * 
- * VARIABLES
- * 
- ***********************************************************/
+## VARIABLES
+ 
+## Hook  
 
-
-/**
- * Hook  
+``` sh
 react-native
 
 Estructura básica de un componente funcional
@@ -91,8 +87,14 @@ export const MyCounterScreen = () => {
 
     Para estilizar, se usan objetos {} no clases CSS.
 
+```
 
 
- */
+
+
+
+
+
+
 
 

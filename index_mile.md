@@ -1,13 +1,9 @@
+# VARIABLES
+ 
+## Hook  
 
-/**********************************************************
- * 
- * VARIABLES
- * 
- ***********************************************************/
+```sh
 
-
-/**
- * Hook  
  Se importa 
 
 - useState
@@ -43,29 +39,9 @@ const formData = {                          /// <------- NO SIEMPRE van la decla
  }
 
 
-
-
- */
-
+# VARIABLES_2
  
- 
-
-
- 
- 
-
-
-
-
-/**********************************************************
- * 
- * VARIABLES
- * 
- ***********************************************************/
-
-
-/**
- * Hook  
+ ## Hook  
  Se importa 
 
  import { useState } from "react";
@@ -73,9 +49,6 @@ const formData = {                          /// <------- NO SIEMPRE van la decla
  Luego en el componente se declara la variable y la funcion que la modifica
  const [nombreVariable, setNombreVariable] = useState(valorInicial);        // Se puede inicializar con cualquier valor
  
-
-
-
 
  Funcional component
 
@@ -93,8 +66,11 @@ const formData = {                          /// <------- NO SIEMPRE van la decla
    )
  }
 
+```
 
 
 
- */
+
+
+
 
